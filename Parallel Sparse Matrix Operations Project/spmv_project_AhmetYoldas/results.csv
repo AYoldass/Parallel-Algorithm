@@ -1,0 +1,6 @@
+Method,Time(ms),GFlops,Speedup,Correctness
+CSR Serial,0.134945,2.970,1.00,PASS
+CSR Parallel,0.027895,14.367,4.84,PASS
+BCSR Parallel,0.366926,1.092,0.37,PASS
+CSR+Bucket Parallel (Optimized),0.032902,12.181,4.10,PASS
+BCSR+Bucket Parallel (Optimized),0.187874,2.133,0.72,PASS
