@@ -677,7 +677,7 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @software{spmv_optimization_2024,
-  author = {Your Name},
+  author = {Ahmet Yoldas},
   title = {Optimized Sparse Matrix-Vector Multiplication with Adaptive Bucket Sizing},
   year = {2024},
   publisher = {GitHub},
@@ -699,7 +699,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 ```
 MIT License
 
-Copyright (c) 2024 [Your Name]
+Copyright (c) 2024 [YAhmet Yoldas]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -723,8 +723,7 @@ furnished to do so, subject to the following conditions:
 
 ## 📞 Contact
 
-**Author:** Your Name  
-**Email:** your.email@example.com  
+**Author:** Ahmet Yoldas  
 **Project Link:** [https://github.com/yourusername/spmv-optimization](https://github.com/yourusername/spmv-optimization)
 
 ---
